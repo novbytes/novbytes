@@ -56,13 +56,12 @@
 
 # MEMORIES
 <div align="center">
-## Sololearn
 
-# Introducing C++
-![https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220](https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220)
+  <h2>Introducing C++ (Sololearn)</h2>
+  <img src="https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220" width="300" alt="Introducing C++ Certificate">
 
-# Intermediate C++
-<img src="https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220">
+  <h2>Intermediate C++ (Sololearn)</h2>
+  <img src="https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220" width="300" alt="Intermediate C++ Certificate">
 
 </div>
 
