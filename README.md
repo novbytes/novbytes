@@ -1,4 +1,5 @@
-<h1 align="left">Miss Nv</h1>
+<h1 align="center">Miss Nv</h1>
+( PREVIOUSLY AS ADJIDEV )
 
 ###
 
@@ -17,12 +18,16 @@
   <img src="https://profile-counter.glitch.me/novbytes/count.svg?"  />
 </div>
 
-###
+# MEMORIES
+<div align="center">
+## Sololearn
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/novbytes/novbytes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/novbytes/novbytes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/novbytes/novbytes/output/pacman-contribution-graph.svg">
-</picture>
+# Introducing C++
+![https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220](https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220)
 
-###
+# - Intermediate C++
+<img src="https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220">
+
+</div>
+
+I am not a professional dev!
