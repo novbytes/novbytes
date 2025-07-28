@@ -60,7 +60,7 @@
 <div align="center">
 
   <h2>Introducing C++ (Sololearn)</h2>
-  <img src="https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220" width="300" alt="Introducing C++ Certificate">
+  <img src="https://api2.sololearn.com/v2/certificates/CC-XVXPOXE6/image/png?t=638890889316395220" width="300" alt="Introducing C++ Certificate">
 
   <h2>Intermediate C++ (Sololearn)</h2>
   <img src="https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220" width="300" alt="Intermediate C++ Certificate">
