@@ -1,3 +1,16 @@
+<div align="center">
+
+  <h2>My Certificates</h2>
+  <h3>Introducing C++ (Sololearn)</h3>
+  <img src="https://api2.sololearn.com/v2/certificates/CC-XVXPOXE6/image/png?t=638890889316395220" width="300" alt="Introducing C++ Certificate">
+
+  <h3>Intermediate C++ (Sololearn)</h3>
+  <img src="https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220" width="300" alt="Intermediate C++ Certificate">
+
+</div>
+
+---
+
 <h1 align="center">Miss Nv</h1>
 <p align="center">PREVIOUSLY AS ADJIDEV</p>
 
@@ -19,8 +32,6 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -31,8 +42,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -45,8 +54,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
@@ -56,15 +63,6 @@
 
 </td></tr></table>  
 
-# MEMORIES
-<div align="center">
-
-  <h2>Introducing C++ (Sololearn)</h2>
-  <img src="https://api2.sololearn.com/v2/certificates/CC-XVXPOXE6/image/png?t=638890889316395220" width="300" alt="Introducing C++ Certificate">
-
-  <h2>Intermediate C++ (Sololearn)</h2>
-  <img src="https://api2.sololearn.com/v2/certificates/CC-SBNRFMOY/image/jpg?t=638893063912634220" width="300" alt="Intermediate C++ Certificate">
-
-</div>
+---
 
 I am not a professional dev!
